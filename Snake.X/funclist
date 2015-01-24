@@ -1,0 +1,17 @@
+___awdiv: CODE, 28888 0 164
+_Move: CODE, 30066 0 306
+_init: CODE, 30372 0 352
+_DrawMatris: CODE, 29790 0 276
+_ControllForCrush: CODE, 29578 0 212
+_Init_Game: CODE, 28656 0 88
+___awmod: CODE, 28744 0 144
+_Out_D: CODE, 29220 0 168
+_main: CODE, 31904 0 864
+__initialization: CODE, 28532 0 20
+_Draw: CODE, 30724 0 486
+_p321: CODE, 31210 0 694
+_Delay1Second: CODE, 28600 0 56
+_PlaceFeed: CODE, 29388 0 190
+___wmul: CODE, 28562 0 38
+_Out_B: CODE, 29052 0 168
+Total: 4226

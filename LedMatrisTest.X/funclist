@@ -1,0 +1,5 @@
+_init: CODE, 32698 0 70
+_main: CODE, 32604 0 38
+__initialization: CODE, 32594 0 0
+_Delay1Second: CODE, 32642 0 56
+Total: 164
